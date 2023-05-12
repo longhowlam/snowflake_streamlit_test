@@ -3,3 +3,5 @@ pandas
 snowflake-snowpark-python
 snowflake-connector-python
 vega_datasets
+urllib3==1.21.1
+charset-normalizer==2.1.1
