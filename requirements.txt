@@ -1,0 +1,5 @@
+altair==4.2.2
+pandas
+snowflake-snowpark-python
+snowflake-connector-python
+vega_datasets
